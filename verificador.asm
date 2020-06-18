@@ -1,4 +1,4 @@
-; Autoria de Vinicius Moura Aragão
+; Autoria de Vinicius Moura Aragao
 org 100h     
 cpf db "CPF.txt",0
 mov dx, offset cpf
