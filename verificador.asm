@@ -114,8 +114,6 @@ nop
 nop
 nop
 
-
-
 mov al, [0300h]
 mov bl, 0h
 mul bl
@@ -222,6 +220,3 @@ mov al, 1
 	msg3end:
 
 hlt
-                       
-
-
